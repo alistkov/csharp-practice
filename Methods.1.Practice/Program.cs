@@ -1,3 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-Console.WriteLine("Hello, World!");
+﻿List<int> GetAboveZero(int[] numbers)
+{
+    List<int> result = new List<int>();
+    foreach (var number in numbers)
+    {
+        Console.WriteLine(number);
+        if (number > 0)
+            result.Add(number);
+    }
+    return result;
+}
