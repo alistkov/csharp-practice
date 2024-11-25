@@ -1,4 +1,4 @@
-﻿string[] words = { "word", "", "not empty string", "another string", "true", "", "", "last" };
+﻿var words = new[] { "word", "", "not empty string", "another string", "true", "", "", "last" };
 
 foreach (var word in words)
 {

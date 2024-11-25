@@ -1,4 +1,4 @@
-﻿int[] numbers = new int [10];
+﻿var numbers = new int [10];
 
 for (var i = 0; i < numbers.Length; i += 1)
 {
