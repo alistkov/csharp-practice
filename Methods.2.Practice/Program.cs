@@ -1,4 +1,4 @@
 ﻿bool IsStringNotEmpty(string text)
 {
-    return text.Length > 0 ? true : false;
+    return !string.IsNullOrEmpty(text);
 }
