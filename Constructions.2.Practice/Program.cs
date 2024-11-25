@@ -2,6 +2,6 @@
 
 foreach (var word in words)
 {
-    if (word.Length > 0)
+    if (!string.IsNullOrEmpty(word))
         Console.WriteLine(word);
 }
