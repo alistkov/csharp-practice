@@ -1,6 +1,8 @@
 ﻿List<int> GetAboveZero(int[] numbers)
 {
-    List<int> result = new List<int>();
+    // Какой вариант лучше использовать?
+    var result = new List<int>();
+    // List<int> result = [];
     foreach (var number in numbers)
     {
         Console.WriteLine(number);
