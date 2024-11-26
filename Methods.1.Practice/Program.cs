@@ -1,12 +1,6 @@
-﻿List<int> GetAboveZero(int[] numbers)
-{
-    var result = new List<int>();
-    
-    foreach (var number in numbers)
-    {
-        Console.WriteLine(number);
-        if (number > 0)
-            result.Add(number);
-    }
-    return result;
-}
+﻿using Methods._1.Practice;
+
+var calculator = new Calculator();
+
+var numbers = new int[] { 1, 2, 4, 5, 6 };
+var result = calculator.GetAboveZero(numbers);
