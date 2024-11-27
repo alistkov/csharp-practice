@@ -1,5 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Types.1.Practice", "Types.1.Practice\Types.1.Practice.csproj", "{74E0228E-625C-4041-8EA5-87131A64588F}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods.1.Practice", "Methods.1.Practice\Methods.1.Practice.csproj", "{4D7F5728-3678-419A-BDCD-C1716E6A955F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods.2.Practice", "Methods.2.Practice\Methods.2.Practice.csproj", "{367C5A14-2519-48EF-A0DD-606238C6F73B}"
@@ -10,6 +12,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E0228E-625C-4041-8EA5-87131A64588F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E0228E-625C-4041-8EA5-87131A64588F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E0228E-625C-4041-8EA5-87131A64588F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E0228E-625C-4041-8EA5-87131A64588F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4D7F5728-3678-419A-BDCD-C1716E6A955F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4D7F5728-3678-419A-BDCD-C1716E6A955F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D7F5728-3678-419A-BDCD-C1716E6A955F}.Release|Any CPU.ActiveCfg = Release|Any CPU
