@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections.2.Practice", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ.1.Practice", "LINQ.1.Practice\LINQ.1.Practice.csproj", "{1FA02AAA-FAEC-4FF0-B443-DC6D81AA72C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ.2.Practice", "LINQ.2.Practice\LINQ.2.Practice.csproj", "{35BC76DC-768F-4802-A1D0-B5D86EE83CCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{1FA02AAA-FAEC-4FF0-B443-DC6D81AA72C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FA02AAA-FAEC-4FF0-B443-DC6D81AA72C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FA02AAA-FAEC-4FF0-B443-DC6D81AA72C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35BC76DC-768F-4802-A1D0-B5D86EE83CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BC76DC-768F-4802-A1D0-B5D86EE83CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BC76DC-768F-4802-A1D0-B5D86EE83CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BC76DC-768F-4802-A1D0-B5D86EE83CCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
