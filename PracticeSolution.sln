@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ.3.Practice", "LINQ.3.P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ.4.Practice", "LINQ.4.Practice\LINQ.4.Practice.csproj", "{862D6CF5-645C-46A3-95C2-AEC629E28015}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ.5.Practice", "LINQ.5.Practice\LINQ.5.Practice.csproj", "{D0BF5513-8695-4B55-AA1E-24769038987F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{862D6CF5-645C-46A3-95C2-AEC629E28015}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{862D6CF5-645C-46A3-95C2-AEC629E28015}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{862D6CF5-645C-46A3-95C2-AEC629E28015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0BF5513-8695-4B55-AA1E-24769038987F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BF5513-8695-4B55-AA1E-24769038987F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BF5513-8695-4B55-AA1E-24769038987F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BF5513-8695-4B55-AA1E-24769038987F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
